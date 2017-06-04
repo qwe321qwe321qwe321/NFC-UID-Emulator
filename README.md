@@ -30,7 +30,7 @@ Android的NFC在模擬Rfid時的tag碼可以在/system/etc/libnfc-nxp.conf中設
  
 ---------------------------------------
 ## 測試機規格
-* Miui 5s Plus
+* Xiaomi 5s Plus
 * Android 6.0.1
 * MIUI 8 Global 7.5.11 Beta ROM
 * *必須ROOT、解鎖System區*
